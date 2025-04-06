@@ -45,7 +45,7 @@ To get started with this project locally, clone the repository and follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/emojipedia-react.git
+   git clone https://github.com/username/emojipedia-react.git
    ```
 
 2. Navigate into the project directory:
