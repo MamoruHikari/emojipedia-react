@@ -8,9 +8,7 @@ Note: It may take up to **60 seconds to load** as the app is hosted on Render's 
 
 ### Description
 
-**Emojipedia** is a React-based project developed to practice core React concepts, including component-based architecture and JSX syntax. The app showcases a list of popular emojis with their names and meanings, using a simple, yet effective, dynamic UI.
-
-In this project, I focused on practicing React fundamentals, specifically working with functional components, passing props, and dynamically rendering content by mapping over arrays. It was a great opportunity to organize data in a modular way using external files like `emojipedia.js` to hold and export data. While the app doesn’t yet use state management, it provides a solid foundation for future improvements.
+**Emojipedia** is a React-based project developed to practice core React concepts such as component-based architecture, JSX syntax, and functional components. The app dynamically displays a list of popular emojis with their names and meanings, showcasing a simple yet effective UI. Throughout the project, I focused on passing props, mapping over arrays to render content, and organizing data in a modular way using external files like `emojipedia.js`. Although state management is not yet implemented, this project provides a solid foundation for future improvements and advanced features.
 
 ---
 
