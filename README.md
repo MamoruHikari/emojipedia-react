@@ -1,4 +1,4 @@
-## 🔐 Emojipedia
+## Emojipedia
 
 Access the live app here: **[Emojipedia](https://emojipedia-react-5od4.onrender.com)**
 
